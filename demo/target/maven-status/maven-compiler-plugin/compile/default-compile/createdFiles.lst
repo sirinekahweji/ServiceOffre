@@ -1,0 +1,5 @@
+com\example\demo\Tp1soa2Application.class
+com\example\demo\Entities\Offre.class
+com\example\demo\Entities\ServiceOffreEmploiApplication.class
+com\example\demo\Controllers\RestOffres.class
+com\example\demo\Repositories\OffreRepository.class
